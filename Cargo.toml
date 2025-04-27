@@ -1,0 +1,9 @@
+[package]
+name = "simple_ui_app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.22"
+egui = "0.22"
+cpal = "0.15"
